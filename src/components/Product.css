@@ -1,0 +1,15 @@
+.product {
+
+}
+.hide {
+    display: none;
+}
+
+.no-deal {
+    color: #282c34;
+}
+
+.deal {
+    color: orangered;
+}
+
